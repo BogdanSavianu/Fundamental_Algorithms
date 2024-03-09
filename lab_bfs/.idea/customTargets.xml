@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="2d757a9c-40ef-4812-8a2d-5c031dd99ef8" name="Unnamed" defaultType="TOOL">
+      <configuration id="d81db734-d6fa-44d6-a05d-56224d09fde8" name="Unnamed" toolchainName="Cygwin">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_all_make" />
+        </build>
+        <clean type="TOOL">
+          <tool actionId="Tool_External Tools_clean_make" />
+        </clean>
+      </configuration>
+    </target>
+    <target id="4613075d-b7ee-4905-8f21-0a23236e7a2a" name="Unnamed (1)" defaultType="TOOL">
+      <configuration id="b5c7f558-d93d-47ee-9ccd-3c45ee32543f" name="Unnamed (1)" />
+    </target>
+  </component>
+</project>

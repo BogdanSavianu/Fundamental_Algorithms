@@ -1,0 +1,3 @@
+D:/Facultate/Anul_2/Sem_1/Algoritmi_fundamentali/Lab2/Insertion_sort/cmake-build-debug/CMakeFiles/Insertion_sort.dir
+D:/Facultate/Anul_2/Sem_1/Algoritmi_fundamentali/Lab2/Insertion_sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Facultate/Anul_2/Sem_1/Algoritmi_fundamentali/Lab2/Insertion_sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
